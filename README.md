@@ -60,7 +60,7 @@ RegisterNumber:212223240014
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 ![image](https://github.com/Hariveeraprasad-2006/ENCODER8TO3DATAFLOW/assets/145049988/61f227b4-ff26-4d19-847a-8140921a3630)
 **RESULTS**
-
+Thus the Encoder 8 to 3 dataflow circuits are designed and the truth tables is verified using Quartus software.
 
 
 
